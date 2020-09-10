@@ -17,9 +17,9 @@
 
 > Here i'll comment something that i see while learn typescript
 
-- An advantage to use typescript is to write code in newer version of ecma script and transpile to a version that works on olds browsers
-- For what I see, Typescript is a easy way to import (i don't know if this is the best word to use) the before knowledge to javascript (Classes, Interfaces, object oriented, design patterns).
-- Typescript solve the types during the development while javascript is during the runtime.
+- An advantage to use typescript is to write code in newer version of ecma script and transpile to a version that works in old browsers
+- For what I see, Typescript is a easy way to import (i don't know if this is the best word to use) the before knowledge to javascript (Classes, Interfaces, object orientation, design patterns).
+- Typescript solve the types during the development while javascript during the runtime.
 
 ### Extra
 
