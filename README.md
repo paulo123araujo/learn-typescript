@@ -3,7 +3,7 @@
 ### Steps to follow
 
 - [x] Advantages: why and how to use
-- [ ] Core types
+- [x] Core types
 - [ ] How to configure the settings to typescript
 - [ ] Classes and Interfaces
 - [ ] Advanced types
