@@ -4,7 +4,7 @@
 
 - [x] Advantages: why and how to use
 - [x] Core types
-- [ ] How to configure the settings to typescript
+- [x] How to configure the settings to typescript
 - [ ] Classes and Interfaces
 - [ ] Advanced types
 - [ ] Generic types
